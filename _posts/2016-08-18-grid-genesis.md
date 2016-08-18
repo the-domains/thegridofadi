@@ -1,13 +1,13 @@
 ---
-description: Grid Genesis
-dateModified: '2016-08-18T18:05:24.197Z'
-datePublished: '2016-08-18T18:05:24.641Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-18T18:05:46.916Z'
 sourcePath: _posts/2016-08-18-grid-genesis.md
+author: []
+via: {}
+dateModified: '2016-08-18T18:05:46.266Z'
+title: ''
+publisher: {}
+description: Grid Genesis
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
