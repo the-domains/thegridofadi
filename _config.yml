@@ -12,3 +12,7 @@ color:
     - '#01B0F0'
     - '#AEEE00'
 name: TheGridOfAdi
+navigation:
+  - name: test
+    id: 8a15930c-ef54-4b45-bd7c-c6ba09c406ca
+    type: content
